@@ -1,1 +1,2 @@
 # time-series-sales-prediction
+This is a data challenge to predict future store sales using past store sales. The  data was more than 10 Gigabytes across years and retail stores across the United States. Unfortunately, due to an NDA signed, the original data cannot be shared. To see a more demonstrable version of the problem statement and proposed solutions, please see the PowerPoint attached.
